@@ -1,0 +1,13 @@
+money-manager-project/
+│
+├── index.html
+├── register.html
+├── login.html
+├── dashboard.html
+├── transactions.html
+├── add-expense.html
+├── balance.html
+├── edit-transaction.html
+│
+├── style.css
+└── script.js
